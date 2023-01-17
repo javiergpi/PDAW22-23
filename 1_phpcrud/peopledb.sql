@@ -21,9 +21,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 
 DROP DATABASE IF EXISTS peopledb;
-CREATE DATABASE lamp_db CHARSET utf8;
+CREATE DATABASE peopledb CHARSET utf8;
 USE peopledb;
-
 -- --------------------------------------------------------
 
 --
